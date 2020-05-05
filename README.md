@@ -1,8 +1,8 @@
-# aeternity_supply_chain_tokenisation
-Aeternity blockchain allows supply chain managements to be much more flexible, transparent and secure without affecting the fundamental process.
-NFT tokens are not instantly swapable one to one.so here is example of aeternity NFT tokenization for supply chain management.
-** Development IDE : **
-*Develop your own local environment setup with the local development framework AEproject.
+1 # aeternity_supply_chain_tokenisation
+2 Aeternity blockchain allows supply chain managements to be much more flexible, transparent and secure without affecting the fundamental process.
+3 NFT tokens are not instantly swapable one to one.so here is example of aeternity NFT tokenization for supply chain management.
+4 ** Development IDE : **
+5 *Develop your own local environment setup with the local development framework AEproject.
 *use the link here -( https://github.com/aeternity/aepp-aeproject-js )
 ** Online IDE : **
 *use the online framework development for reference use this -( https://contracts.aepps.com/)
