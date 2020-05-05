@@ -86,7 +86,7 @@ contract ERC721 =
     put(state{_totalSupply = (state._totalSupply +1)})
     put(state{_nextTokenId = (state._nextTokenId +1)})
     
-    
+   // stateful function for updating the asset name property of given TokenId 
   stateful entrypoint updateProductName(tokenId :  int, productName : string)=
     only_token_owner(Call.caller, tokenId)
     require(state.assetProperties[tokenId].isCounterfeit == false, "asset is counterfeit")
