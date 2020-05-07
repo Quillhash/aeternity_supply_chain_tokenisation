@@ -1,4 +1,4 @@
-contract ERC721 =
+contract AES721 =
   // state is handled for the storing the elements on blockchain
 
   record state = { 
